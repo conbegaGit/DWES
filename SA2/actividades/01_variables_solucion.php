@@ -9,5 +9,8 @@ Hola, me llamo [nombre], tengo [edad] años y dentro de 10 años tendré [edadEn
 
 */
 
-
+$nombre = "Ana";
+$edad = 20;
+$edadEn10 = $edad + 10;
+echo "Hola, me llamo $nombre, tengo $edad años y dentro de 10 años tendré $edadEn10.";
 ?>
